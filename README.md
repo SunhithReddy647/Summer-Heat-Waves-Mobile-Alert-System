@@ -73,3 +73,16 @@ This project enhances the prediction of heat waves in India by leveraging a Dens
 5. **Phase 5: Deployment and Outreach**
    - Deploy the system and engage with communities and policymakers.
    - Conduct educational workshops and outreach programs.
+
+## Acknowledgements
+
+- Thanks to [Kaggle](https://www.kaggle.com) for providing the dataset.
+- Inspiration from various open-source AI projects.
+
+## Contact
+
+For any inquiries, please contact:
+
+- Name: Sunhith Reddy
+- Email: iamtsr2004@gmail.com
+- Linkedin: www.linkedin.com/in/sunhith-reddy-t
